@@ -75,6 +75,10 @@ This section describes a few things about the installation of Ventura xxxx besid
 > This is a work in progress, though functional, be careful.
 > Booting into windows through the opencore UEFI show your motherboard to be a MacPro motherboard which invalidates your windows license.
 
+For the most part, it's about following this guide [OpenCore Install Guide - AMD zen](https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html)
+
+below is a list of repo's I used:
+
 __Used repos__
 
 * [OpenCore Install Guide](https://github.com/dortania/OpenCore-Install-Guide)
