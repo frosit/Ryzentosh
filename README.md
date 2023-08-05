@@ -92,6 +92,7 @@ __Used repos__
 __Others__
 
 * [SSDTime](https://github.com/corpnewt/SSDTTime)
+* [RestrictEvents](https://github.com/acidanthera/RestrictEvents/releases) - fixes memory issue with MacPro 7,1
 
 ### Working with the EFI folder
 
