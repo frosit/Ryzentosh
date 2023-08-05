@@ -4,3 +4,6 @@
 [submodule "tools/MountEFI"]
 	path = tools/MountEFI
 	url = https://github.com/corpnewt/MountEFI
+[submodule "tools/OcBinaryData"]
+	path = tools/OcBinaryData
+	url = https://github.com/acidanthera/OcBinaryData
