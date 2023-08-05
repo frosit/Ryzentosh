@@ -75,6 +75,25 @@ This section describes a few things about the installation of Ventura xxxx besid
 > This is a work in progress, though functional, be careful.
 > Booting into windows through the opencore UEFI show your motherboard to be a MacPro motherboard which invalidates your windows license.
 
+__Used repos__
+
+* [OpenCore Install Guide](https://github.com/dortania/OpenCore-Install-Guide)
+* [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg/releases)
+* [GibMacOS](https://github.com/corpnewt/gibMacOS)
+* [ProperTree](https://github.com/corpnewt/ProperTree)
+* [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
+* [MountEFI](https://github.com/corpnewt/MountEFI)
+* [USBMap](https://github.com/corpnewt/USBMap))
+
+__Others__
+
+* [SSDTime](https://github.com/corpnewt/SSDTTime)
+
+### Working with the EFI folder
+
+I noticed that on Windows, I like to use [DiskGenius](https://www.diskgenius.com/download.php) to transfer to and from the EFI boot folder. On MacOS I use [MountEFI](https://github.com/corpnewt/MountEFI) to mount the EFI partition.
+The installer USB was build using [gibMacOS](https://github.com/corpnewt/gibMacOS)
+
 
 
 
