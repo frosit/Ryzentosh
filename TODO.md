@@ -1,8 +1,12 @@
 To Do
 =====
 
-* setup nice boot menu
-* setup boot chime
-* fix memory map
+
+
+* fix memory map?
 * Fix BT + WiFi USB support
+  * Bt patching
 * Find workaround for virtualization
+* Upgrade OSX
+* Update USBMap
+* Update SSDTTime
