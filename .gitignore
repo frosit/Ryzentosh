@@ -4,3 +4,4 @@
 tools/OpenCore/*
 !tools/OpenCore/.gitkeep
 !tools/OpenCore/README.md
+/Resources
