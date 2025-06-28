@@ -7,3 +7,12 @@
 [submodule "tools/OcBinaryData"]
 	path = tools/OcBinaryData
 	url = https://github.com/acidanthera/OcBinaryData
+[submodule "tools/AMD_Vanilla"]
+	path = tools/AMD_Vanilla
+	url = git@github.com:AMD-OSX/AMD_Vanilla.git
+[submodule "tools/GenSMBIOS"]
+	path = tools/GenSMBIOS
+	url = git@github.com:corpnewt/GenSMBIOS.git
+[submodule "tools/OCConfigCompare"]
+	path = tools/OCConfigCompare
+	url = "https://github.com/corpnewt/OCConfigCompare "
