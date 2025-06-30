@@ -16,3 +16,6 @@
 [submodule "tools/OCConfigCompare"]
 	path = tools/OCConfigCompare
 	url = "https://github.com/corpnewt/OCConfigCompare "
+[submodule "tools/Lilu-and-Friends"]
+	path = tools/Lilu-and-Friends
+	url = git@github.com:corpnewt/Lilu-and-Friends.git
